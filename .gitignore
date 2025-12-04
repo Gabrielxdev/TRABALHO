@@ -1,0 +1,6 @@
+# Ignorar arquivos Excel nas pastas bases e listagem
+bases/*.xlsx
+bases/*.xls
+listagem/*.xlsx
+listagem/*.xls
+*.xls
