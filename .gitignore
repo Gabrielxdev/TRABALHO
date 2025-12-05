@@ -3,4 +3,5 @@ bases/*.xlsx
 bases/*.xls
 listagem/*.xlsx
 listagem/*.xls
+*.xlsx
 *.xls
